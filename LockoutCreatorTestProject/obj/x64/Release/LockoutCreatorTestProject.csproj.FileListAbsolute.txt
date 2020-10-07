@@ -1,0 +1,12 @@
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\bin\x64\Release\Resources\lockoutTemplate.dot
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\bin\x64\Release\Lockout Creator.exe.config
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\bin\x64\Release\Lockout Creator.exe
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\bin\x64\Release\Lockout Creator.pdb
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreatorTestProject.csprojAssemblyReference.cache
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreatorTestProject.csproj.ResolveComReference.cache
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreator.LockoutInputForm.resources
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreator.Properties.Resources.resources
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreatorTestProject.csproj.GenerateResource.cache
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\LockoutCreatorTestProject.csproj.CoreCompileInputs.cache
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\Lockout Creator.exe
+C:\Users\mmendenh\Documents\Projects\lockoutcreator\LockoutCreatorTestProject\obj\x64\Release\Lockout Creator.pdb
